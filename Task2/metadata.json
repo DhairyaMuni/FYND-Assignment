@@ -1,0 +1,5 @@
+{
+  "name": "FeedbackAI",
+  "description": "A dual-dashboard feedback system powered by Gemini 2.5 Flash Lite. Users submit reviews with instant AI responses, while admins get real-time AI summaries and actionable insights.",
+  "requestFramePermissions": []
+}
